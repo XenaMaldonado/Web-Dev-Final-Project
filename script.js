@@ -32,7 +32,7 @@ let jsonDatabase = [
     "name" : "Lizzo",
     "job" : "Singer",
     "significance" : "She has become one of the reigning queens of the topic. In the intro to her song \“My Skin\” on her 2015 album Big Grrrl Small World, for example, she discusses how learning to love one’s body is a challenge every person — specifically every woman — goes through.",
-    "quote" : "\"Learning to love yourself and like learning to love your body is like that whole. Journey that I feel like every person. But more specifically women, have to go through. So I feel like doing this is a good way to kinda break through. And kinda seal the last chapter of the \"learning to love\" and just loving\"",
+    "quote" : "\"Learning to love yourself and like learning to love your body is like that whole. Journey that I feel like every person. But more specifically women, have to go through. So I feel like doing this is a good way to kinda break through. And kinda seal the last chapter of the \"learning to love\" and just loving.\"",
     "picture_url" : "https://media1.popsugar-assets.com/files/thumbor/8OS_Siqq_Ovm0Mt-5OysQt1amEM/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/09/24/636/n/1922729/tmp_uGXPh4_5be74baada75f19e_VO1120_Cover.jpg",
     "color" : "#ce93d8"
   },
