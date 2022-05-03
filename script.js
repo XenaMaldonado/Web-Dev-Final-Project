@@ -98,5 +98,4 @@ function createElementProper(incomingJSON) {
   newContentElement.appendChild(newImage);
 
   contentGridElement.appendChild(newContentElement);
-
 }
